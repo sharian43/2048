@@ -1,6 +1,7 @@
 body{
     font-family: 'dosis', 'sans-serif';
     text-align: center;
+    background: linear-gradient(320deg, #eb92be, #ffef, #d8bfd8 );
 }
 
 hr{
