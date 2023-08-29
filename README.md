@@ -6,3 +6,4 @@
 - Merge tiles with the same number to create higher-value tiles.
 - Keep merging tiles to reach the 2048 tile and beyond
 # Screenshot
+![Screenshot ](https://github.com/sharian43/2048/assets/114778798/865b04dc-a1a2-472d-abf3-770ec230e86f)
